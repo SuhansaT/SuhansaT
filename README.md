@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Suhansa Tharusha!
-🎓 **BEng (Hons) in Software Engineering**  
+🎓 **BEng in Software Engineering**  
 🏫 Java Institute for Advanced Technology, Sri Lanka  
 📍 Full-Stack & Mobile Developer passionate about building scalable, real-world applications
 
