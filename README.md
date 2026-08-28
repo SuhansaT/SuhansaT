@@ -32,6 +32,6 @@
 
 - 📧 Email: `suhansabandara2005@gmail.com`  
 - 🔗 LinkedIn: [Suhansa Tharusha](https://www.linkedin.com/in/suhansa-tharusha)  
-- 🌐 Portfolio: [tharusha.free.nf](https://tharusha.free.nf)  
+- 🌐 Portfolio: [tharusha.free.nf](https://tharusha.freehosting.dev)  
 
 ---
